@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JJSAP</string>
+    <string name="accessibility_desc">Permite tocar automaticamente as posições calibradas do piano na tela.</string>
+</resources>
